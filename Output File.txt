@@ -1,0 +1,50 @@
+Value before Increment: 5
+Value after Increment: 7
+
+Value before Decrement: 7
+Value after Decrement: 5
+
+
+Arithmetic Operations:
+Addition: 
+9999998747 + 7783403478: 17783402225
+After Addition with Compound Assignment: 17783402225
+
+Subtraction: 
+88534434 - 555443: 87978991
+After Subtraction with Compound Assignment: 87978991
+
+Multiplication: 
+1234 * 5678: 7006652
+After Multiplication with Compound Assignment: 7006652
+
+Division: 
+9876543210 / 1234: 8003681
+After Division with Compound Assignment: 8003681
+
+Modulo: 
+100 % 3: 1
+After Modulo with Compound Assignment: 1
+
+
+Comparison: 
+12345 == 54321: 0
+12345 != 54321: 1
+12345 > 54321: 0
+12345 >= 54321: 0
+12345 < 54321: 1
+12345 <= 54321: 1
+
+
+Functions: 
+Square Root of 16: 4
+Power: 1024
+
+Before Swap: swap1 = 10, swap2 = 20
+After Swap: swap1 = 20, swap2 = 10
+
+Before Sorting: 321 123 543 234 
+After Sorting: 123 234 321 543 
+
+Min: 10
+Max: 20
